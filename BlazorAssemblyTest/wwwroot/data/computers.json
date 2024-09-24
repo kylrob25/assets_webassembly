@@ -1,0 +1,16 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Dell XPS 15",
+    "User": "Alice Johnson",
+    "ServiceTag": "ABC123",
+    "OS": "Windows 11"
+  },
+  {
+    "Id": 2,
+    "Name": "Lenovo ThinkPad X1",
+    "User": "Charlie Brown",
+    "ServiceTag": "GHI789",
+    "OS": "Windows 10"
+  }
+]
